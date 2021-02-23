@@ -1,0 +1,14 @@
+{
+  "name": "nordkey.bot",
+  "version": "0.1.0",
+  "description": "Le Bot NordKey.Bot est le Bot du serveur Discord officiel de NordKey. Il a était créé par le PDG Nolhan. © Copyright 2020-2021 NordKey.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PDG - Nolhan (l'agriculteur normand)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
